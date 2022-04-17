@@ -87,6 +87,7 @@ public class ParameterMapperTest {
         ParameterMapper mapper = sqlSession.getMapper(ParameterMapper.class);
         User user = mapper.getUserByUsername("admin");
         System.out.println(user);
+        System.out.println("你好啊Git!");
     }
 
     @Test
