@@ -88,6 +88,7 @@ public class ParameterMapperTest {
         User user = mapper.getUserByUsername("admin");
         System.out.println(user);
         System.out.println("你好啊Git!");
+        System.out.println("你好啊git hot-fix");
     }
 
     @Test
