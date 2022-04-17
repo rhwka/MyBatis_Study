@@ -90,8 +90,9 @@ public class ParameterMapperTest {
         System.out.println("你好啊Git!");
         System.out.println("你好git， hot-fix");
         System.out.println("你好啊git hot-fix");
-        System.out.println("你好啊，gitee");
+        System.out.println("你好啊, Gitee");
         System.out.println("hello,pull");
+        System.out.println("你好啊,push！");
     }
 
     @Test
