@@ -94,6 +94,7 @@ public class ParameterMapperTest {
         System.out.println("hello,pull");
         System.out.println("你好啊,push！");
         System.out.println("你好github");
+        System.out.println("你好github2222");
     }
 
     @Test
