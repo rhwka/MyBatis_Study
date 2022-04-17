@@ -91,6 +91,7 @@ public class ParameterMapperTest {
         System.out.println("你好git， hot-fix");
         System.out.println("你好啊git hot-fix");
         System.out.println("你好啊，gitee");
+        System.out.println("hello,pull");
     }
 
     @Test
